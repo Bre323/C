@@ -1,2 +1,2 @@
 # C
-Alguns programas na linguagem C
+Programas na linguagem C
