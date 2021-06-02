@@ -13,8 +13,8 @@ int main(){
 	kelvin = celsius + 273;
 	fahreinheit = celsius * 9/5 + 32;
 	
-	cout << "A temperatura é de " << kelvin << " Kelvin\n\n\n" << endl;
-	cout << "A temperatura é de " << fahreinheit << " Fahreinheit\n\n\n" << endl;
+	cout << "A temperatura Ã© de " << kelvin << " Kelvin\n\n\n" << endl;
+	cout << "A temperatura Ã© de " << fahreinheit << " Fahreinheit\n\n\n" << endl;
 	
 	cin.get();
 	return 0;
